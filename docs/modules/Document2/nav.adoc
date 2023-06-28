@@ -1,5 +1,5 @@
 * Document2
-** xref:legal2.adoc[Legal Notice]
+
 ** xref:introduction2.adoc[Introduction]
 
 ** Content2
